@@ -5,3 +5,6 @@
 [submodule "GUD"]
 	path = GUD
 	url = https://github.com/rh8liuqy/bayesian_modal_regression
+[submodule "MSIMST"]
+	path = MSIMST
+	url = https://github.com/rh8liuqy/msimst

@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BAREB"]
+	path = BAREB
+	url = https://github.com/cran/BAREB
 [submodule "GUD"]
 	path = GUD
 	url = https://github.com/rh8liuqy/bayesian_modal_regression

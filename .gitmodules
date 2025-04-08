@@ -7,7 +7,7 @@
 	url = https://github.com/cran/BAREB
 [submodule "DNNSIM"]
 	path = DNNSIM
-	url = https://github.com/cran/DNNSIM
+	url = https://github.com/rh8liuqy/dnnsim
 [submodule "GUD"]
 	path = GUD
 	url = https://github.com/rh8liuqy/bayesian_modal_regression
